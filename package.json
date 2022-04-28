@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Creando una blockchain propia con JavasCript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasvedovato/blockchain-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasvedovato/blockchain-js/issues"
+  },
+  "homepage": "https://github.com/eliasvedovato/blockchain-js#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
