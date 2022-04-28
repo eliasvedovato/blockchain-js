@@ -1,2 +1,2 @@
 # blockchain-js
-Creando una blockchain propia con JavasCrpit
+Creando una blockchain propia con JavasCript
